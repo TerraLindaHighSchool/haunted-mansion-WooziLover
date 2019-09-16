@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     Vector3 m_Movement;
     Quaternion m_Rotation = Quaternion.identity;
 
+    //start method
     void Start()
     {
         m_Animator = GetComponent<Animator>();
