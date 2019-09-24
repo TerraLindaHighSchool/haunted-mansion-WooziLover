@@ -151,6 +151,8 @@ PlayerSettings:
       sharedDepthBuffer: 0
       dashSupport: 0
       lowOverheadMode: 0
+      protectedContext: 0
+      v2Signing: 0
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
   protectGraphicsMemory: 0
@@ -620,7 +622,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: 2da24560-ea15-4b88-9cea-8f6ce7cebe55
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: HauntedMansion
   organizationId: bgustin
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
